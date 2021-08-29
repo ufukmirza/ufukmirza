@@ -58,10 +58,14 @@ Here are some ideas to get you started:
 
 ## 🔁 Dynamic 
 
-<img width='200' src="https://github-readme-stats.vercel.app/api?username=ufukmirza&theme=radical&show_icons=true" />
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true" /> 
-<img width='200' src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> 
-
+<img width='400' src="https://github-readme-stats.vercel.app/api?username=ufukmirza&theme=radical&show_icons=true" />
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true" /> 
+<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> 
+<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Qlearning" /> 
+<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=QuizAppFlutter" /> 
+<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=bmicalculator" /> 
+<img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=StudentInformation_Flutter" /> 
+<img width='400' align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=SpaceGameWithPython" /> 
 
 
 [linkedin]: https://www.linkedin.com/in/ufuk-mirza-yuksel/
