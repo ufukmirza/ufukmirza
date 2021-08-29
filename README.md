@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub followers](https://img.shields.io/github/followers/ufukmirza?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ufukmirza?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ufukmirza?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ufukmirza.visitor-badge)
+![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ufukmirza.visitor-badge)
 
 
 
