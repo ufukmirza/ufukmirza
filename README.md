@@ -1,3 +1,7 @@
+
+
+
+
 ### Hi there 👋
 
 <!--
@@ -14,6 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![GitHub followers](https://img.shields.io/github/followers/ufukmirza?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ufukmirza?style=social)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=ufukmirza.visitor-badge)
+
 
 
 ##Hi there, I'm Ufuk Mirza Yüksel - 👋
