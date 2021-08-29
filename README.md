@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=ufukmirza" />
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza" /> 
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact" /> 
 
 
 
