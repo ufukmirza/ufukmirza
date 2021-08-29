@@ -58,5 +58,16 @@ Here are some ideas to get you started:
 <br />
 
 
+## 🔁 Dynamic [🔝](#welcome-badges-4-readmemd-profile)
+
+Badge | URL
+------------ | -------------
+<img width='200' src="https://github-readme-stats.vercel.app/api?username=ufukmirza" />
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza" /> 
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=ufukmirza" />
+
+
+
+
 [linkedin]: https://www.linkedin.com/in/ufuk-mirza-yuksel/
 
