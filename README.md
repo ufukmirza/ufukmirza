@@ -23,13 +23,3 @@ I'm a Student, Developer, and eager to learn!!
 ⚡ I’m currently learning everything 🤣
 🥅 2021 Goals: learn flutter at advanced level
 
-
-💬 Connect with me:
-LinkedInufuk-mirza-yuksel
-
-
-💬 Languages and Tools:
-Visual Studio CodeKotlinDartCJavaPythonCs
-
-⚡ Recent GitHub Activity
-⚡ GitHub Stats
