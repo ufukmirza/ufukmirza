@@ -64,7 +64,6 @@ Badge | URL
 ------------ | -------------
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=ufukmirza" />
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza" /> 
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=ufukmirza" />
 
 
 
