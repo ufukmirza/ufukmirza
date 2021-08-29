@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <img width='200' src="https://github-readme-stats.vercel.app/api?username=ufukmirza&theme=radical&show_icons=true" />
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true" /> 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> 
+<img width='200' src="https://github-readme-stats.vercel.app/api/?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> 
 
 
 
