@@ -74,8 +74,7 @@ Here are some ideas to get you started:
 <img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Qlearning" /> 
 <img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=QuizAppFlutter" /> 
 <img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=bmicalculator" /> 
-<img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=
-PetsAppWithMobxAndDio" /> 
+<img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=PetsAppWithMobxAndDio"/> 
 <img width='400' align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=SpaceGameWithPython" /> 
 
 
