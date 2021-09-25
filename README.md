@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ## 📱 Mobile Frameworks 
 
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> 
+ <a href="https://flutter.dev/?gclid=Cj0KCQjwkbuKBhDRARIsAALysV5yEz-DMVwcs-QB_3MD-TwwszrshLcXp6x8RYDe38Cl6DEhXjRaWQoaAj2qEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://www.muratoner.net/wp-content/uploads/2019/01/flutterlogo.png" alt="flutter" width="40" height="40"/> </a>
 
 
 
