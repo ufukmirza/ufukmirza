@@ -63,12 +63,12 @@ Here are some ideas to get you started:
 
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=ufukmirza&theme=radical&show_icons=true" />
 <img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true" /> 
-<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> 
-<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Qlearning" /> 
-<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=QuizAppFlutter" /> 
-<img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=bmicalculator" /> 
-<img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=PetsAppWithMobxAndDio"/> 
-<img width='400' align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=SpaceGameWithPython" /> 
+<a href="https://github.com/ufukmirza/TMDBapp"> <img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> </a> 
+<a href="https://github.com/ufukmirza/Qlearning"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Qlearning" /></a> 
+<a href="https://github.com/ufukmirza/QuizAppFlutter"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=QuizAppFlutter"/> </a> 
+<a href="https://github.com/ufukmirza/bmicalculator"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=bmicalculator" /> </a>
+<a href="https://github.com/ufukmirza/PetsAppWithMobxAndDio"><img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=PetsAppWithMobxAndDio"/> </a> 
+<a href="https://github.com/ufukmirza/SpaceGameWithPython"><img width='400' align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=SpaceGameWithPython" /> </a>
 
 
 [linkedin]: https://www.linkedin.com/in/ufuk-mirza-yuksel/
