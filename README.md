@@ -64,10 +64,9 @@ Here are some ideas to get you started:
 <img width='400' src="https://github-readme-stats.vercel.app/api?username=ufukmirza&theme=radical&show_icons=true" />
 <img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufukmirza&layout=compact&theme=radical&show_icons=true" /> 
 
-<p style="color :red;">  
-you can click on the card to go to the project
-</p>  
-
+```diff
+- you can click on the card to go to the project
+```
 <a href="https://github.com/ufukmirza/TMDBapp"> <img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=TMDBapp" /> </a> 
 <a href="https://github.com/ufukmirza/Qlearning"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Qlearning" /></a> 
 <a href="https://github.com/ufukmirza/QuizAppFlutter"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=QuizAppFlutter"/> </a> 
