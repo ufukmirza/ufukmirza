@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 ```
 <a href="https://github.com/ufukmirza/PetsAppWithMobxAndDio"><img width='400' align="left"  src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=WeatherApp"/> </a> 
 
-
+<br/>
 <a href="https://github.com/ufukmirza/WeatherApp"><img width='400' align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=NasaAppForAppCent" /> </a>
-
+<br/>
 <a href="https://github.com/ufukmirza/Group-On-Application"><img width='400'  align="left" src="https://github-readme-stats.vercel.app/api/pin?username=ufukmirza&layout=compact&theme=radical&show_icons=true&&repo=Group-On-Application" /></a> 
 
 
